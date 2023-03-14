@@ -432,6 +432,10 @@ header .navbar ul li a:hover{
   width: 100%;
 }
 
+#special-text{
+  text-transform: lowercase;
+}
+
 .contact .row form .box::placeholder{
   text-transform: capitalize;
 }
